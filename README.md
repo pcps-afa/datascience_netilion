@@ -1,10 +1,10 @@
 # datascience_netilion
 A Jupyter Notebook getting you started with Time Series Analysis based on the Netilion API. And a Flask App to deploy this model as a webservice and send out instant messages via Telegram.
 
-The entire Code is explained in this [How-To-Video](https://www.youtube.com/watch?v=t2_wmIuDhNE).
+The entire Code is explained in this [How-To-Video](https://www.youtube.com/watch?v=3WmdA4REhxY).
 
 # What is the purpose of this Repository?
-So maybe you have seen the following [Promotional Video](https://www.youtube.com/watch?v=t2_wmIuDhNE) and are wondering how to get those instant message forecasts from your production facility? If that's the case, fork this repository!
+So maybe you have seen the following [Promotional Video](https://www.youtube.com/watch?v=F-_7Pt-5GIQ) and are wondering how to get those instant message forecasts from your production facility? If that's the case, fork this repository!
 
 ![Screenshot from Promotional Video](/images/Teaser_Video_Screenshot.jpg)
 
